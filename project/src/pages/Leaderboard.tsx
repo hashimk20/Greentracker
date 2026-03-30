@@ -6,7 +6,7 @@ const Leaderboard = () => {
     { rank: 2, name: 'Sarah Williams', points: 2150, badge: 'ECO CHAMPION', avatar: 'S', color: 'bg-gray-400' },
     { rank: 3, name: 'Mike Chen', points: 1890, badge: 'ECO WARRIOR', avatar: 'M', color: 'bg-orange-600' },
     { rank: 4, name: 'Emma Davis', points: 1620, badge: 'ECO WARRIOR', avatar: 'E', color: 'bg-[#22c55e]' },
-    { rank: 5, name: 'UZAIF', points: 0, badge: 'ECO NEWBIE', avatar: 'U', color: 'bg-[#22c55e]', isCurrentUser: true },
+    { rank: 5, name: 'HASHIM', points: 0, badge: 'ECO NEWBIE', avatar: 'U', color: 'bg-[#22c55e]', isCurrentUser: true },
   ];
 
   const getRankIcon = (rank: number) => {

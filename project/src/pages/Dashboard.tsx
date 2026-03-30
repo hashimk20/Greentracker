@@ -42,7 +42,7 @@ const Dashboard = () => {
       <div className="flex flex-col md:flex-row md:items-start justify-between gap-4 mb-8">
         <div>
           <h1 className="text-2xl md:text-3xl font-bold text-white mb-2">
-            Hello, <span className="text-[#22c55e]">UZAIF</span>!
+            Hello, <span className="text-[#22c55e]">HASHIM</span>!
           </h1>
           <p className="text-[#94a3b8]">Ready to make an impact today?</p>
         </div>

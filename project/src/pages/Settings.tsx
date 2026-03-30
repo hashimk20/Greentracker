@@ -25,8 +25,8 @@ const Settings = () => {
             </button>
           </div>
           <div className="flex-1">
-            <h2 className="text-2xl font-bold text-white mb-1">UZAIF</h2>
-            <p className="text-[#94a3b8] mb-4">uzaif@gmail.com</p>
+            <h2 className="text-2xl font-bold text-white mb-1">HASHIM</h2>
+            <p className="text-[#94a3b8] mb-4">hashim.k78690@gmail.com</p>
             <button className="px-6 py-2 border-2 border-[#22c55e] text-[#22c55e] rounded-lg font-medium hover:bg-[#22c55e] hover:text-white transition-colors">
               Edit Profile
             </button>
