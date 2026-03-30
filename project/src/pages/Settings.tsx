@@ -2,8 +2,8 @@ import { useState } from 'react';
 import { Camera } from 'lucide-react';
 
 const Settings = () => {
-  const [displayName, setDisplayName] = useState('UZAIF');
-  const [email, setEmail] = useState('uzaif@gmail.com');
+  const [displayName, setDisplayName] = useState('HASHIM');
+  const [email, setEmail] = useState('hashim.k78690@gmail.com');
   const [darkMode, setDarkMode] = useState(true);
   const [compactSidebar, setCompactSidebar] = useState(false);
   const [emailAlerts, setEmailAlerts] = useState(true);
